@@ -1,0 +1,1 @@
+Change **local/config.example.js** to **local/config.js** then change the configs with your local environment.

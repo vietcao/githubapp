@@ -1,0 +1,1 @@
+export const PROMISE_RUN = 'promise_run';
